@@ -1,0 +1,6 @@
+*.pub
+*.env
+__pycache__/
+meta-latest
+*.csv
+*.txt
