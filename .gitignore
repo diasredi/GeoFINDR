@@ -3,4 +3,5 @@
 __pycache__/
 meta-latest
 *.csv
-*.txt
+output*.txt
+.venv/
