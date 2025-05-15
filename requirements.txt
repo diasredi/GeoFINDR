@@ -1,0 +1,12 @@
+matplotlib
+numpy
+pandas
+polycircles
+public-ip
+pythonping
+ripe.atlas.cousteau
+simplekml
+scikit-learn
+scipy
+urllib3
+dotenv
